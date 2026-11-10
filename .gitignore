@@ -1,1 +1,11 @@
+.env
+**/node_modules/
+npm-debug.log*
 .DS_Store
+.next/
+dist/
+coverage/
+*.log
+backend/.env
+frontend/.env
+frontend/.env.local
